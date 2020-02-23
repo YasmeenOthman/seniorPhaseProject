@@ -12,9 +12,9 @@
 
 ## Table of contents:
 * Technologies.
+* Software Design
 
 ## Technologies Used 
-```
 *  Front End
      * Web Development Frameworks : React
      * HTML & CSS
@@ -29,10 +29,9 @@
     - Heroku
     
 *  Unit Testing
-    - Jest (Test Runner)
-    - Enzyme (Testing Utility)
-
-```
+     - Jest (Test Runner)
+     - Enzyme (Testing Utility)
+    
 ## Software Design
     - Service-oriented Architecture (SOA)
 
