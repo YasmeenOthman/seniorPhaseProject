@@ -1,4 +1,5 @@
-# Front End Capstone
+# Project name:
+> Front End Capstone
 ### Kickstarter Website
 
 
