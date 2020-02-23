@@ -14,6 +14,7 @@
 * Technologies.
 
 ## Technologies Used 
+```
 *  Front End
      * Web Development Frameworks : React
      * HTML & CSS
@@ -31,7 +32,7 @@
     - Jest (Test Runner)
     - Enzyme (Testing Utility)
 
-
+```
 ## Software Design
     - Service-oriented Architecture (SOA)
 
