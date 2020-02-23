@@ -4,22 +4,30 @@
 ## Description:
 > A front end simulation for the Kickstarter Website.
 
+## Team:
+1. Dalia Awad
+2. Maha Alnabahin
+3. Mays Qunaibi
+4. Yasmeen Othman
+
+## Table of contents:
+* Technologies.
 
 ## Technologies Used 
-* Front End
+*  Front End
     _ Web Development Frameworks : React
     _ HTML & CSS
 
-2. Back End
+*  Back End
     - Node.js / Express.js
 
-3. Database
+*  Database
     - MongoDB / Atlas
 
-4. Deployment
+*  Deployment
     - Heroku
     
-5. Unit Testing
+*  Unit Testing
     - Jest (Test Runner)
     - Enzyme (Testing Utility)
 
