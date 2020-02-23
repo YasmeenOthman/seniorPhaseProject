@@ -1,9 +1,7 @@
 # Project name:
-> Front End Capstone
-### Kickstarter Website
+> Front End Capstone - Kickstarter Website
 
-
-## Main Idea
+## Description:
 A front end simulation for the Kickstarter Website.
 
 
