@@ -2,13 +2,13 @@
 > Front End Capstone - Kickstarter Website
 
 ## Description:
-A front end simulation for the Kickstarter Website.
+> A front end simulation for the Kickstarter Website.
 
 
 ## Technologies Used 
-1. Front End
-    - Web Development Frameworks : React
-    - HTML & CSS
+* Front End
+    _ Web Development Frameworks : React
+    _ HTML & CSS
 
 2. Back End
     - Node.js / Express.js
