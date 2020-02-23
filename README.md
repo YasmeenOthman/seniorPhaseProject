@@ -15,8 +15,8 @@
 
 ## Technologies Used 
 *  Front End
-    _ Web Development Frameworks : React
-    _ HTML & CSS
+     * Web Development Frameworks : React
+     * HTML & CSS
 
 *  Back End
     - Node.js / Express.js
