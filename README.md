@@ -5,11 +5,12 @@
 > A front end simulation for the Kickstarter Website.
 
 ## Team:
+```
 1. Dalia Awad
 2. Maha Alnabahin
 3. Mays Qunaibi
 4. Yasmeen Othman
-
+```
 ## Table of contents:
 * Technologies.
 * Software Design
@@ -36,8 +37,7 @@
     - Service-oriented Architecture (SOA)
 
 
-## Project Status
-    - Still trying with testing
+
 
 
 
